@@ -1,0 +1,30 @@
+!! Sentence structure
+Fundament  Verb1  (Subjekt)  Sats-Adverbial  Verb2  Objekt  Adverbial 
+
+Fundament: represents start of a sentence, it can be a subject or a adverb representing time and place
+
+Verb1 : In Swedish there is a rule V2 which means the first verb in a sentence will always come in second place. Verb1 can be a normal verb or a helper verb
+Subjekt : This is optional and subject will be included in this position only if Fundament  is not a subject
+
+Sats Adverbial : a special adverb(sentence adverb) which modifies or changes the meaning of an entire sentence
+e.g 
+inte (not)
+kanske (maybe)
+ofta (often)
+alltid (always)
+tyvärr (unfortunately)
+aldrig (never)
+
+Verb2 : A verb will be included for second time in the sentence if the first verb is a helper verb
+e.g of helper verbs
+
+Objekt represents answer to the questions what and who
+
+
+!! Verb
+
+
+Helper verbs(hjälpverb) are used before a  main verb (in the infinitive form) to express ability necessity or intention
+Four main categories of helper verbs:
+1) Modal(attitude) verbs
+e.g.
