@@ -20,10 +20,26 @@ e.g of helper verbs
 
 Objekt represents answer to the questions what and who
 
+!! Articles
+Articles are words that indicate whether a noun is specific(definite) or general(indefinite)
+en and ett are the indefinite(obestämd) articles
+Definite (bestämd) form  is created by adding the article as a suffix
+e.g. 
+en bil (a car)
+bilen (the car)
+ett hus (a house)
+huset ( the house)
 
+When an adjective is used before a definite noun Swedish uses a double definite structure.
+An additional standalone article(den det de) is placed before the adjective while the noun keeps its suffix
+e.g.
+den nya bilen ( the new car)
+det gamma huset ( the old house)
+de stora bilarna ( the new cars) -- for plural 
 
 !! Noun
 
+) Commonly used nouns
 
 !! Verb
 
