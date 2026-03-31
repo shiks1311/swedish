@@ -21,6 +21,10 @@ e.g of helper verbs
 Objekt represents answer to the questions what and who
 
 
+
+!! Noun
+
+
 !! Verb
 
 
@@ -28,3 +32,12 @@ Helper verbs(hjälpverb) are used before a  main verb (in the infinitive form) t
 Four main categories of helper verbs:
 1) Modal(attitude) verbs
 e.g.
+
+
+
+) Commonly used verbs with examples:
+1) mår : to feel
+e.g 
+Hur mår du? (How are you / How are you feeling)
+Jag mår bra ( I am fine, I feel fine)
+
