@@ -38,8 +38,150 @@ det gamma huset ( the old house)
 de stora bilarna ( the new cars) -- for plural 
 
 !! Noun
+) en and ett genders
+en and ett represent the genders of Swedish noun. There are no set rules to determine when they should be used. 74% of all nouns are en nouns and 26% are ett nouns. The best way to determine is to learn important ett nouns as they are few in number. Also statistically in Swedish the words ending with de te and ag are primarily ett words and words ending with a are almost always en words
+Common ett nouns:
 
-) Commonly used nouns
+Home & Household things:
+
+ett hus – house
+ett rum – room
+ett kök – kitchen
+ett badrum – bathroom
+ett vardagsrum – living room
+ett sovrum – bedroom
+ett fönster – window
+ett golv – floor
+ett tak – roof/ceiling
+ett bord – table
+ett skrivbord – desk
+ett skåp – cabinet
+ett kylskåp – fridge
+ett frysskåp – freezer
+ett lås – lock
+ett täcke – duvet
+ett lakan – sheet
+ett ljus – candle/light
+ett tvättställ – washbasin
+ett element – radiator
+
+Places & Buildings:
+
+ett hotell — a hotel
+ett sjukhus — a hospital
+ett bibliotek — a library
+ett museum — a museum
+ett kontor — an office
+ett företag — a company
+ett universitet — a university
+
+Food & Drink
+
+ett ägg – an egg
+ett äpple — an apple
+ett päron – a pear
+ett knäckebröd – crispbread
+ett bröd — a bread / loaf
+ett kött — meat (as mass)
+ett ris — rice (as mass)
+ett socker — sugar
+ett salt — salt
+ett smör — butter
+ett vatten — water
+ett kaffe — coffee (cup or as mass)
+ett te — tea
+ett vin — wine
+ett öl — beer (a serving or type)
+ett glas — a glass (for drinking)
+ett paket – a package
+ett fat — a plate / dish
+ett bestick — cutlery
+
+Objects & Everyday Things:
+
+ett papper – paper
+ett kvitto – receipt
+ett brev – letter
+ett kort – card
+ett pass – passport
+ett paket – package
+ett paraply – umbrella
+ett vykort – postcard
+ett foto – photo
+ett kvitto – receipt
+ett mynt – coin
+ett batteri – battery
+ett verktyg – tool
+ett schema – schedule
+ett dokument – document
+ett brev – a letter
+ett kort – a card
+ett lås – a lock
+
+Nature & Weather:
+
+ett träd — a tree
+ett berg — a mountain
+ett hav — a sea / ocean
+ett land — a country / land
+ett väder — weather
+ett regn — rain
+ett snö — snow (often ett snöfall for snowfall)
+ett blad — a leaf
+ett gräs — grass
+ett moln — a cloud
+
+Body and Health:
+
+ett huvud — a head
+ett ansikte — a face
+ett öga — an eye
+ett öra — an ear
+ett hår — hair (collective)
+ett finger — a finger
+ett ben — a leg / bone
+ett knä — a knee
+ett hjärta — a heart
+ett blod — blood (mass)
+ett problem (health-related, see abstract)
+
+Abstract Concepts & Ideas:
+
+ett namn — a name
+ett beslut — a decision
+ett problem — a problem
+ett svar — an answer
+ett fråga (en; correction: ett svar is common ett)
+ett arbete — work / job
+ett jobb — a job
+ett liv — a life
+ett år — a year
+ett exempel — an example
+ett språk — a language
+ett ämne — a subject / topic
+ett resultat — a result
+ett mål — a goal
+ett hopp — hope
+ett fel — a mistake / error
+ett råd — advice / a piece of advice
+
+Time & Measurement:
+
+ett år — a year
+ett dygn — a day (24 hours)
+ett ögonblick — a moment
+ett sekund (often en; but ett ögonblick common)
+ett minut (en)
+
+People & Family (few ett, as most living beings are en; these are common exceptions):
+
+ett barn — a child
+ett syskon — a sibling
+
+Animals (most are en; these common neuter exceptions or collectives):
+
+ett djur — an animal
+ett lejon — a lion (some large/wild animals lean neuter in usage)
 
 !! Verb
 
