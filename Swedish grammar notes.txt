@@ -181,7 +181,7 @@ ett syskon — a sibling
 Animals (most are en; these common neuter exceptions or collectives):
 
 ett djur — an animal
-ett lejon — a lion (some large/wild animals lean neuter in usage)
+ett lejon — a lion 
 
 !! Verb
 
@@ -199,3 +199,48 @@ e.g
 Hur mår du? (How are you / How are you feeling)
 Jag mår bra ( I am fine, I feel fine)
 
+!! Preposition
+Prepositions are short words (e.g., in, at, on, of, by, to) that connect nouns, pronouns, or phrases to other words within a sentence
+Types of prepositions:
+1) Time (When) : Indicate when something happens
+i -- in
+e.g.
+i) closed areas or areas with boundaries like country,city,village,province etc:
+Jag bor i Europa (continent) --  I live in Europe
+Jag bor i Sverige (country) 
+Jag bor i Stockholm (city)
+
+ii) Private, enclosed vehicles
+i bilen ( in a car)
+
+på -- on/at
+e.g.
+i) open spaces like island, street, address, square etc:
+Jag bor på Gotland (island) -- I live on Gotland
+Jag bor på Skogängsvägen 39A (address) -- I live at Skogängsvägen 39A
+
+ii) places considered as points of activity or function
+e.g. 
+på jobbet (at work)
+på skolan (at school)
+på gymmet (at gym)
+
+iii) Physical contact with a surface
+
+iv) Public transport
+på busen ( on the bus)
+på tagen (on the train)
+in, on, at, under, over, behind, beside, between, among
+
+v) Specific point of time
+på måndag (on Monday)
+på midsommar (at Midsummer)
+
+2) Location (Where) : Indicates position
+
+3) Movement (Where to/from) : Indicates movement
+Till -- to 
+There is another word in Swedish which also means to -- Att . This is a infinitive marker and not a preposition, it is used before a infinitive verb
+e.g.
+Ja går till jobbet ( I am going to work)
+Trevligt att traffas ( Nice to meet you)
