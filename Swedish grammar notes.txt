@@ -319,13 +319,13 @@ om tre månader (in three months)
 om ett år (in a year)    
 Tåget kommer om tio minuter (The train arrives in 10 minutes)
 
-b. For duration ("during" or "for"), specific calendar year
+b. During a period
 Use under
 
 Jag kommer att resa till Indien under vintern(i will travel to India during winter)
 
 
-iii) Future month, year, season
+c. Future month, year, season
 Use i
 
 i vinter (this winter)
@@ -334,9 +334,12 @@ i är (this year)
 
 Jag ska åka till Sandhamn i september (I am going to Sandhamn in September)
 
+d. Future day
+Use på
 
+Jag börjar mitt nya jobb på måndag (I start my new job on Monday)
 
-c. Until / upto a future period
+d. Until / upto a future period
 Use till to indicate endpoint of a future period
 
 till fredag (until Friday)
@@ -382,4 +385,49 @@ Use sedan(since/for) to represent an event which started in the past and continu
 Jag har bott här sedan 2025 ( I have lived here since 2025 )
 Hon har arbetat här sedan januari ( She has worked here since January )
 
+iv) Habitual or repeating actions
+Use på
 
+Jag åker till Djurgården på söndagar ( I go to Djurgården on Sundays )
+Jag går till jobbet på vardagar ( i go to work on weekdays )
+Jag går till gymmet på helgen ( i go to gym on weekend )
+Jag spelar på helgerna ( I play on weekends)
+
+v) Holidays
+Use på
+Vad gjorde du på midsommar? ( What did you do on Midsummer? )
+
+vi) Negative duration ( the amount of time that has passed without doing something)
+Use på 
+
+Jag har inte tränat på en vecka ( I haven't worked out for a week )
+Jag har inte ätit pizza på en månad ( i have not eaten pizza in a month )
+
+vii) Time taken to complete a task
+Use på to  show how long it takes to finish an action. This is used for past, present, and future actions. 
+
+Jag kan laga bilen på två dagar ( I can fix the car in two days )
+Han sprang milen på 45 minuter ( He ran the 10 kilometers in 45 minutes )
+
+viii) Specific time
+Use klockan to represent a specific time
+
+Vi ses klockan 20.00 ( We will meet at 8:00 pm)
+
+ix) Around a time or special event (including holiday)
+Use vid
+vid 8-tiden (around 8.00 clock)
+Vid midsommar (Around Midsummer)
+Vid jul  (Around Christmas)
+Vid 18 års ålder (At 18 years of age)
+
+Vi ska träffas vid sjutiden ( We will meet around seven )
+Vi åker till Jämtland vid midsommar ( We are going to Jämtland around Midsummer )
+
+
+
+
+x) Precise Moments or Turning Points ("At")
+Use vid to point to a specific, sharp moment in time when an action or state changes
+
+Tåget anländer vid midnatt ( The train arrives at midnight )
