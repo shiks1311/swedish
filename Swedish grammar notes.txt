@@ -199,13 +199,18 @@ e.g
 Hur mår du? (How are you / How are you feeling)
 Jag mår bra ( I am fine, I feel fine)
 
-!! Preposition
+
+
+!! PREPOSITION
 Prepositions are short words (e.g., in, at, on, of, by, to) that connect nouns, pronouns, or phrases to other words within a sentence
-Types of prepositions:
-1) Time (When) : Indicate when something happens
+)) Types of prepositions:
+
+1. Place Prepositions (Lägesprepositioner)
+Describe where something is (answers the question where?)
+
 i -- in
 e.g.
-i) closed areas or areas with boundaries like country,city,village,province etc:
+i) closed areas or areas with boundaries like country, city, village, province etc:
 Jag bor i Europa (continent) --  I live in Europe
 Jag bor i Sverige (country) 
 Jag bor i Stockholm (city)
@@ -232,15 +237,149 @@ på busen ( on the bus)
 på tagen (on the train)
 in, on, at, under, over, behind, beside, between, among
 
-v) Specific point of time
-på måndag (on Monday)
-på midsommar (at Midsummer)
+under -- under
+Katten sitter under bordet (The cat is under the table)
 
-2) Location (Where) : Indicates position
+över -- above
+Lampan hängar över bordet (The lamp hangs above the table)
 
-3) Movement (Where to/from) : Indicates movement
-Till -- to 
-There is another word in Swedish which also means to -- Att . This is a infinitive marker and not a preposition, it is used before a infinitive verb
-e.g.
-Ja går till jobbet ( I am going to work)
-Trevligt att traffas ( Nice to meet you)
+bakom -- behind
+
+framför -- in front of
+
+bredvid -- beside
+
+mellan -- between (usually 2 things)
+Huset ligger mellan två byggnader  (The house lies between two buildings)
+
+bland  -- among (usually 3 or more things)
+Han stod bland människorna (He stood among the people)
+
+intill -- next to / adjacent to
+Skolan ligger intill parken (The school lies next to the park)
+
+nära -- near, close to
+Jag bor nära centrum ( I live near the city centre)
+
+i närhetten av  -- in the vicinity of (in the same area or neighbourhood but not directly next to each other)
+Det finns en bra park i närheten av mitt jobb (There is a nice park near my work)
+
+långt från -- far from
+Vi bor långt från stan ( We live far from town)
+
+mittemot -- across from / opposite to
+Hon satt mittemot mig vid middagen (She sat opposite me at dinner)
+Banken ligger mittemot posten (The bank is located opposite the post office)
+
+till höger om -- to the right of 
+Bilen står till höger om huset (The car is parked to the right of the house)
+
+till vänster om  -- to the left of
+Hon sitter till vänster om mig (She is sitting to the left of me)
+
+Norr om -- north of
+
+söder om -- south of
+Staden ligger söder om sjön (The city is located south of the lake)
+
+Öster om -- east of
+
+Väster om -- west of
+
+
+2. Direction Prepositions (Riktningsprepositioner)
+Show movement towards or away from something
+
+till -- to
+Jag går till skolan (I walk to school)
+Vi åker till Göteborg (We are going to Gothenburg)
+
+från -- from
+Jag kommer från Indien (I come from India)
+
+mot -- toward
+Bussen kör mot centrum (The bus drives towards the city centre)
+
+genom -- through
+Vi går genom skogen (We walk through the forest)
+
+3. Time prepositions (Tidsprepositioner)
+Used to indicate time
+
+Categories of time prepositions:
+i) Future time
+
+a. In a future period
+Use om when an event will happen after a period of time
+
+om en timme (in an hour)
+om två dagar (in two days)
+om en vecka (in a week)
+om tre månader (in three months)
+om ett år (in a year)    
+Tåget kommer om tio minuter (The train arrives in 10 minutes)
+
+b. For duration ("during" or "for"), specific calendar year
+Use under
+
+Jag kommer att resa till Indien under vintern(i will travel to India during winter)
+
+
+iii) Future month, year, season
+Use i
+
+i vinter (this winter)
+i höst (this autumn)
+i är (this year)
+
+Jag ska åka till Sandhamn i september (I am going to Sandhamn in September)
+
+
+
+c. Until / upto a future period
+Use till to indicate endpoint of a future period
+
+till fredag (until Friday)
+till sommaren (until summer)
+
+Use från ... till if we know the starting point and endpoint of a future period
+
+från juni till augusti (from June to August)
+från klockan två till fyra (from two to four)
+
+Jag arbetar från måndag till fredag (I work from Monday to Friday)
+
+ii) Past time
+a. Ago
+Use för + amount of time + sedan to represent how long ago something happened
+
+Jag flyttade till Sverige för två år sedan ( I moved to Sweden two years ago )
+Hon ringde mig för en timme sedan ( She called me an hour ago )
+
+b. In a past period
+Use i when talking about a specific period in the past, especially months, years, seasons and historical periods
+
+I går (yesterday)
+i förrgår (day before yesterday)
+i måndags ( last Monday)
+i somras ( last summer )
+i januari ( in January)
+
+c. During a past period
+Use under(during) to represent something that happened throughout or a somepoint within a past period
+
+under sommaren (during the summer)
+under semestern (during the vacation)
+under helgen (during the weeekend)
+under 1990-talet (during the 1990s)
+
+Jag bodde i Stockholm under sommaren ( I lived in Stockholm during the summer )
+
+
+iii) Present perfect
+Use sedan(since/for) to represent an event which started in the past and continues to the present
+
+Jag har bott här sedan 2025 ( I have lived here since 2025 )
+Hon har arbetat här sedan januari ( She has worked here since January )
+
+
