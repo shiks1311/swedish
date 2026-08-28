@@ -425,9 +425,13 @@ Vi ska träffas vid sjutiden ( We will meet around seven )
 Vi åker till Jämtland vid midsommar ( We are going to Jämtland around Midsummer )
 
 
-
-
 x) Precise Moments or Turning Points ("At")
 Use vid to point to a specific, sharp moment in time when an action or state changes
 
 Tåget anländer vid midnatt ( The train arrives at midnight )
+
+xi) How fast?
+Use på to answer how fast something is completed
+
+Jag kan avsluta arbetet på en timme ( i can finish the work in 1 hour )
+Hon springer 1 km på fem minuter ( She runs 1 km in five minutes )
